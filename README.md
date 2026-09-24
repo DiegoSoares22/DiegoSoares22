@@ -1,7 +1,7 @@
 # Diego Soares
 
 **Full Stack .NET Developer** - C# / ASP.NET Core / EF Core / SQL Server / React / TypeScript  
-Sao Paulo, Brazil (UTC-3) - Open to remote work - English B2  
+Sao Paulo, Brazil - Open to remote work - English B2  
 [LinkedIn](https://www.linkedin.com/in/diego-soaresdev/) - [Portfolio](https://diegosoares.vercel.app)
 
 I build secure REST APIs and web applications. Founder of DG Desenvolvimentos, where I deliver custom systems, websites and automations for small businesses, from requirements gathering to deployment.
@@ -18,7 +18,7 @@ I build secure REST APIs and web applications. Founder of DG Desenvolvimentos, w
 ## Stack
 
 **Backend:** C#, .NET 8/9, ASP.NET Core Web API, REST, Entity Framework Core, Identity, JWT  
-**Databases:** SQL Server, MySQL, PostgreSQL  
+**Databases:** SQL Server, MySQL  
 **Frontend:** React, TypeScript, Tailwind CSS  
 **Tools:** Git, Docker, Swagger, xUnit, Vercel  
 **AI and automation:** OpenAI API, n8n
